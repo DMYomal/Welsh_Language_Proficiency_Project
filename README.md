@@ -9,16 +9,25 @@ Data has been obtained from residents of North Wales and South Wales, where resp
 # Data structure
 
 The variables collected for a sample of residents are:
+
 resident - If respondent is 'Current' or 'Former' resident of Wales
+
 area - Resident of 'North' Wales or 'South' Wales
+
 hyder - Self-assessed level of proficiency with the Welsh language, selected using a sliding scale (higher values mean higher confidence)
+
 friends - Estimated number of friends or family members proficient with the Welsh language
+
 year - Year of birth
+
 gender - Gender
+
 read - Reading ability score
+
 write - Writing ability score
 
 Data Analysis Findings:
+
 Differences between North Wales and South Wales: The analysis revealed that there were more participants from South Wales compared to North Wales. 
 However, there is a significant difference in language proficiency mean scores between the two regions. 
 This means that North Wales participants have higher language proficiency than South Wales participants. But when considering the female and male language proficiency, there is no significant difference between genders in each region. The same is applied to the mean of the average of survey results in listening, speaking, writing, and reading.
@@ -32,6 +41,7 @@ Here, the writing score is the only considered variable as the main factor due t
 Apart from the selected variables, the initial data collection team can add variables like educational background, Cultural and Social Factors, etc which may give better results.
 
 Limitations and Conclusion:
+
 1. The analysis identified missing values and outliers in the dataset, which were handled accordingly.
 2. The sample predominantly consisted of females and further investigation into gender-related differences in language proficiency could be explored.
 3. The statistical model explained approximately 35.54% of the variability in language proficiency, indicating room for improvement.
